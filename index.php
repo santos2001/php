@@ -1,4 +1,6 @@
 <?php
 
-var_dump("Olá Mundo");
+echo "Olá mundo 123";
+echo "Olá família";
+
 ?>
