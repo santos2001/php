@@ -1,4 +1,4 @@
 <?php
-
-var_dump("Olá Mundo");
+echo "Olá mundo 456";
+echo "Olá man";
 ?>
